@@ -1,0 +1,61 @@
+.navbar
+{
+    background-color: darkblue;
+}
+
+.navbar-brand
+{
+    color: white;
+}
+
+.nav-item a
+{
+    color: #eee;
+}
+
+.sidenav
+{
+    width: 120px;
+    height: 100%;
+    padding-top: 20px;
+    position: fixed;
+    background-color: #333;
+}
+
+.sidenav a
+{
+    color: #eee;
+    display: block;
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+}
+
+.sidenav a:hover
+{
+    background-color: #222;
+}
+
+.home
+{
+    margin-left: 120px;
+    padding: 10px 10px;
+}
+
+@media screen and (max-width: 500px) 
+{
+    .sidenav 
+    { 
+        width: 100px;
+    }
+
+    .sidenav a
+    {
+        font-size: 12px;
+    }    
+
+    .home
+    {
+        margin-left: 100px;
+        padding: 10px 10px;
+    }
+}
