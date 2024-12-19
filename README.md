@@ -6,5 +6,5 @@ Features List
 - Manage Users
 - Manage Items
 - Manage HRMS
-- Coming Soon
+- Manage Company
 - Coming Soon
