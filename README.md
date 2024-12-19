@@ -1,3 +1,10 @@
-# Simple ERP with custom Features
+# Simple ERP
 
-This project is a custom erp system with spring boot API
+This project is built with Angular V18
+
+Features List
+- Manage Users
+- Manage Items
+- Manage HRMS
+- Coming Soon
+- Coming Soon
